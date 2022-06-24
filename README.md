@@ -48,7 +48,7 @@ Activate NDI output
 #### Resolution
 Set resolution of NDI output
 
-#### Bacground color
+#### Background color
 Activate and set background color
 
 #### Source name
