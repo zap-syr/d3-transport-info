@@ -40,7 +40,7 @@ Select parameters which you want to see
 Settings to customize text font
 
 ### NDI
-![select parameters](assets/font-parameter.png)
+![select parameters](assets/ndi-parameter.png)
 
 #### Active
 Activate NDI output
