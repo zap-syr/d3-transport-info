@@ -14,7 +14,7 @@ Receving osc transport commands from Disguise and send this as ndi video signal
 ## Parameters
 
 ### OSC
-![osc parameters](assets/osc-parameter.png)
+![osc tab](assets/osc-tab.png)
 
 #### Active
 Activate osc incoming data
@@ -26,7 +26,7 @@ Select ip address by which you want to receive osc data
 Osc port for incoming data
 
 ### Select
-![select parameters](assets/select-parameter.png)
+![select tab](assets/select-tab.png)
 
 #### Remove Names
 Remove name of the row
@@ -35,12 +35,12 @@ Remove name of the row
 Select parameters which you want to see
 
 ### Font
-![select parameters](assets/font-parameter.png)
+![font tab](assets/font-tab.png)
 
 Settings to customize text font
 
 ### NDI
-![select parameters](assets/ndi-parameter.png)
+![ndi tab](assets/ndi-tab.png)
 
 #### Active
 Activate NDI output
